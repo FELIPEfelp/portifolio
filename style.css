@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: barrio;
+    src: url(font/LCALLIG.TTF);
+}
+
+h1 {
+    font-family: barrio;
+}
+
+h2 {
+    font-family: barrio;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+.contato {
+    background-color: white;
+    border-radius: 4px;
+    width: 150px;
+    text-align: center;
+}
+
+.b1 {
+    height: 30px;
+}
+
+.b2 {
+    height: 30px;
+}
+
+.b3 {
+    height: 30px;
+}
+
+.b1:hover {
+    border: 1px solid transparent;
+    border-radius: 100px;
+    transition: 3.0s;
+}
+
+.b2:hover { 
+    border: 1px solid transparent;
+    border-radius: 100px;
+    transition: 3.0s;
+} 
+
+.b3:hover {
+    border: 1px solid transparent;
+    border-radius: 100px;
+    transition: 3.0s;
+}
+
+.q1 {
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+.cabeça {
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.a1 {
+    height: 30px;
+}
+
+.a2 {
+    height: 30px;
+}
+
+.a3 {
+    height: 30px;
+}
+
+.a4 {
+    height: 30px;
+}
+
+.f1 {
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
